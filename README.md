@@ -1,1 +1,5 @@
-# Calc_vault
+# Calc_valult
+# This is Basic web based calculator, which generally people can use as calculator, Behind it you can put your "secret door". which openes at wherever you wish it to open. 
+# Pretty useful when you want your secure vault to look like normal thing and by inserting specific code it takes you to to somewhere secret webpage of yours. 
+# Most usefull usecase is it should be used as mobile application where user can keep it as calculator behind user's secret code he can access his entire secret gallery where he can manually upload photoes and videos (Gallery functionallity needs to be develope saperately.) in current repository i just have calulator which works as vault!
+# For demo you can insert code "123" or "321" it will take to my "Facebook" and "Instagram" profiles. Follow for updates.
